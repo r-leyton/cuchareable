@@ -1,6 +1,7 @@
-
-Cuchareable
-
+ **Cuchareable** 
+ 
+  **DESCRIPCION**
+  
 app colaborativa basada en Google Maps que permite a los usuarios encontrar, agregar y valorar los mejores puntos para disfrutar de un *chocho*, un *combinado*, un buen desayuno y más delicias populares.  
 Ideal para compartir y descubrir experiencias gastronómicas locales, todo de manera fácil y visual.
 
@@ -38,4 +39,9 @@ puntos (Collection)
       ├─ longitud: Double
       ├─ tipo: String
       ├─ valoraciones: Int
-capturas
+ *CAPTURAS**
+<br>
+<img width="477" height="947" alt="image" src="https://github.com/user-attachments/assets/e00ad9d7-efa3-46d3-9df9-2f9d1a618a69" />
+<br>
+<img width="451" height="945" alt="image" src="https://github.com/user-attachments/assets/cf855f64-985d-4479-b0d1-1f72c79bfc22" />
+
