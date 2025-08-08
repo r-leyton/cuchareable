@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984852241774",
+    "project_id": "ams13cuchar",
+    "storage_bucket": "ams13cuchar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984852241774:android:5bfcac194bd80ec91ab57f",
+        "android_client_info": {
+          "package_name": "com.example.am_s12cuchareable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKjJXsF4LtkSBSvpgOH8g-E7FMIkeoNQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
